@@ -8,8 +8,8 @@ True],
 'S005': ['Poleron Cozy', 'poleron', 'XL', 'verde', 'algodon',
 True],
 'S006': ['Camisa Formal', 'camisa', 'M', 'blanco', 'algodon',
-False]}
-#precio, stock
+False]} 
+#precio, unidades
 bodega={
 'S001': [7990, 12],
 'S002': [19990, 0],
